@@ -1,0 +1,1 @@
+{"name":"financial-accounting-studio","version":"0.1.0","private":true,"scripts":{"dev":"npx serve .","preview":"npx serve ."},"description":"Financial Accounting assignment generation and grading studio"}
